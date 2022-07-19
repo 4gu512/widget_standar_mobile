@@ -1,0 +1,1 @@
+# widget_standar_mobile
